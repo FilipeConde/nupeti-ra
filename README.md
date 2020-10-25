@@ -1,13 +1,23 @@
 **==NuPETI/FADERGS==**
+
 Projeto
+
 >FADERGS_RA - Sistema de localização nos prédios da FADERGS;
+
 Prof
+
 >Rafael Rehm<br> Adalto
-Alunos  -> Filipe Conde      [01/2020 - presente]
-		   Hirya Souza       [01/2020 - 10/2020]
-		   Alan Correa       [01/2020 - 10/2020]
-		   Bryan Meissnerm   [01/2020 - presente]
-		   Marlon Gulart     [01/2020 - presente]
+
+Alunos
+Filipe Conde      [01/2020 - presente]
+
+Hirya Souza       [01/2020 - 10/2020]
+
+Alan Correa       [01/2020 - 10/2020]
+Bryan Meissnerm   [01/2020 - presente]
+
+Marlon Gulart     [01/2020 - presente]
+		   
 
 
 
