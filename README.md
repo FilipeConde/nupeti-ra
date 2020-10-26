@@ -53,9 +53,10 @@ O sistema será composto por
 - Skype / Google hungouts (chamadas de vídeo)
 
 ## Sistema de trabalho:
-Até agora não foi iniciada a etapa de escrita de código. Porém, algumas diretrizes importantes já foram propostas e aceitas para assegurar boas práticas no projeto.
+Ainda não foi iniciada a etapa de escrita de código. Porém, algumas diretrizes importantes já foram propostas e aceitas para assegurar boas práticas no projeto.
 - Todos os participantes poderão se envolver em todas as etapas do projeto, inclusive mais de uma, conforme seus interesses. Porém, dependendo do número de participantes, procuraremos manter um responsável por backend, um por frontend e outro por negócio, para garantir concentração de informações. Esta definição não implica em hierarquia, apenas em assegurar que um participante com disponibilidade e engajamento em cada área possa concentrar informações sobre o andamento do projeto e poder auxiliar na comunicação entre os colegas;
 - Decisões DEVEM ser registradas por e-mail e/ou documentos para que todos possam acessar e seguir o trabalho em conformidade com o resto do grupo;
 - Decisões serão tomadas em grupo, e toda divergência técnica será resolvida com conversa e argumentação;
 - O intuito do NuPETI é o aprendizado  tanto de habilidades técnicas quanto humanas. Por isso o respeito, companheirismo e apoio são full duplex (todos ajudam como puderem e recebem a ajuda que precisarem);
 - Em caso de necessidade de nivelamento, os participantes são estimulados a elaborarem workshops online com os colegas, irientando para que não hajam barreiras para os interessados participarem;
+- Procurar trabalhar nos códigos com boas práticas, legibilidade e responsabilidade considerando o trabalho dos colegas;
