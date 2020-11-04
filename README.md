@@ -12,13 +12,18 @@ Rafael Rehm<br> Adalto
 
 Filipe Conde      [01/2020 - presente]
 
+Marlon Gulart     [01/2020 - presente]
+
+Gabriela Neto     [10/2020 - presente]
+
+Mateus Montano    [10/2020 - presente]
+
+
 Hirya Souza       [01/2020 - 10/2020]
 
 Alan Correa       [01/2020 - 10/2020]
 
-Bryan Meissnerm   [01/2020 - presente]
-
-Marlon Gulart     [01/2020 - presente]
+Bryan Meissnerm   [01/2020 - 10/2020]
 		   
 
 
